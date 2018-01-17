@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bigxigua-project-core-domain:war exploded">
+    <output-path>$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-domain/target/bigxigua-project-core-domain-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bigxigua-project-core-domain" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-domain/target/bigxigua-project-core-domain-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="bigxigua-project-core-domain/web/Web" />
+    </root>
+  </artifact>
+</component>

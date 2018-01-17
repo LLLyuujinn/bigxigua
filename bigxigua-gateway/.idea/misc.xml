@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-api" />
+    <file type="web" url="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-domain" />
+    <file type="web" url="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-repository" />
+    <file type="web" url="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-goods" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../bigxigua-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../bigxigua-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/../bigxigua-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/pom.xml" />
+        <option value="$PROJECT_DIR$/../bigxigua-project/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-api/pom.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

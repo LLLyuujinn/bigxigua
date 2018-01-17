@@ -1,0 +1,4 @@
+com\bigxigua\core\fallback\TestServiceHystrix.class
+com\bigxigua\core\service\TestService.class
+com\bigxigua\core\controller\TestController.class
+com\bigxigua\WebApplication.class

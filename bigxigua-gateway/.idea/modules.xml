@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-commons/bigxigua-commons.iml" filepath="$PROJECT_DIR$/../bigxigua-commons/bigxigua-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-eureka-server/bigxigua-eureka-server.iml" filepath="$PROJECT_DIR$/../bigxigua-eureka-server/bigxigua-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway.iml" filepath="$PROJECT_DIR$/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project.iml" filepath="$PROJECT_DIR$/../bigxigua-project/bigxigua-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core.iml" filepath="$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-api/bigxigua-project-core-api.iml" filepath="$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-api/bigxigua-project-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-domain/bigxigua-project-core-domain.iml" filepath="$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-domain/bigxigua-project-core-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-repository/bigxigua-project-core-repository.iml" filepath="$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-repository/bigxigua-project-core-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-service/bigxigua-project-core-service.iml" filepath="$PROJECT_DIR$/../bigxigua-project/bigxigua-project-core/bigxigua-project-core-service/bigxigua-project-core-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigxigua-web/bigxigua-web.iml" filepath="$PROJECT_DIR$/../bigxigua-web/bigxigua-web.iml" />
+    </modules>
+  </component>
+</project>

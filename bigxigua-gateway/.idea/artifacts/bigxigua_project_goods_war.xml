@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bigxigua-project-goods:war">
+    <output-path>$PROJECT_DIR$/../bigxigua-project/bigxigua-project-goods/target</output-path>
+    <root id="archive" name="bigxigua-project-goods-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bigxigua-project-goods:war exploded" />
+    </root>
+  </artifact>
+</component>
